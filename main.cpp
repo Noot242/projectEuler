@@ -6,6 +6,7 @@
 #include"Q4.h"
 #include"Q5.h"
 #include"Q6.h"
+#include"Q7.h"
 #include <chrono> // for std::chrono functions & Timer Class
 #include<iostream> // for std::cout functions
 
@@ -22,5 +23,6 @@ int main()
 	printAnswer(4, Q4());
 	printAnswer(5, Q5());
 	printAnswer(6, Q6());
+	printAnswer(7, Q7());
 	return 0;
 }

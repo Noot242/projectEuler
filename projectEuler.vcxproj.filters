@@ -36,6 +36,9 @@
     <ClCompile Include="Q6.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Q7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Q1.h">
@@ -54,6 +57,9 @@
       <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="Q6.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q7.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>

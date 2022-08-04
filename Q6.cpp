@@ -12,8 +12,6 @@ Find the difference between the sum of the squares of the first one hundred natu
 */
 
 #include"Q6.h"
-#include<cmath>
-#include<iostream>
 
 int Q6(int nthTerm)
 {
@@ -30,8 +28,6 @@ int Q6(int nthTerm)
 	int diffSquareSum{ 2 * sumOfProducts };
 	return diffSquareSum;
 }
-
-
 
 
 /* Notes

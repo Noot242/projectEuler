@@ -150,8 +150,10 @@
     <ClCompile Include="Q4.cpp" />
     <ClCompile Include="Q5.cpp" />
     <ClCompile Include="Q6.cpp" />
+    <ClCompile Include="Q7.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Q7.h" />
     <ClInclude Include="Q6.h" />
     <ClInclude Include="Q1.h" />
     <ClInclude Include="Q2.h" />
