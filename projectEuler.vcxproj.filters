@@ -39,28 +39,40 @@
     <ClCompile Include="Q7.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Q8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Q1.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Q2.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Q3.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Q4.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Q5.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Q6.h">
-      <Filter>Source Files</Filter>
+    <ClInclude Include="Q8.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Q7.h">
-      <Filter>Source Files</Filter>
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q6.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q9.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

@@ -151,8 +151,12 @@
     <ClCompile Include="Q5.cpp" />
     <ClCompile Include="Q6.cpp" />
     <ClCompile Include="Q7.cpp" />
+    <ClCompile Include="Q8.cpp" />
+    <ClCompile Include="C9.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Q9.h" />
+    <ClInclude Include="Q8.h" />
     <ClInclude Include="Q7.h" />
     <ClInclude Include="Q6.h" />
     <ClInclude Include="Q1.h" />
